@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from scikit-learn.neighbors import KNeighborsClassifier
+from sklearn.neighbors import KNeighborsClassifier
 
 
 #Load the K-Nearest Neighbour Classifier model
