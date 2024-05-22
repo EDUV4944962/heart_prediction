@@ -1,5 +1,3 @@
-## Heart Disease Prediction Application
-
 ## About Application
 This application allows doctors to enter the details of patients to determine whether the patient likely suffers from heart disease. 
 This helps doctors decide whether to send the patient for further tests or treatment.The model considers various features including age, sex, 
