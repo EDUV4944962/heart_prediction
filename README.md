@@ -1,4 +1,4 @@
-## [Heart Disease Prediction Application]
+## Heart Disease Prediction Application
 
 ## About Application
 This application allows doctors to enter the details of patients to determine whether the patient likely suffers from heart disease. 
